@@ -1,0 +1,26 @@
+{
+  "Average_Temperature_C": {
+    "Average_Temperature_C": 1.0,
+    "Maximum_Temperature_C": 0.9781,
+    "Minimum_Temperature_C": 0.9746,
+    "Relative_Humidity": -0.1708
+  },
+  "Maximum_Temperature_C": {
+    "Average_Temperature_C": 0.9781,
+    "Maximum_Temperature_C": 1.0,
+    "Minimum_Temperature_C": 0.9131,
+    "Relative_Humidity": -0.1389
+  },
+  "Minimum_Temperature_C": {
+    "Average_Temperature_C": 0.9746,
+    "Maximum_Temperature_C": 0.9131,
+    "Minimum_Temperature_C": 1.0,
+    "Relative_Humidity": -0.2276
+  },
+  "Relative_Humidity": {
+    "Average_Temperature_C": -0.1708,
+    "Maximum_Temperature_C": -0.1389,
+    "Minimum_Temperature_C": -0.2276,
+    "Relative_Humidity": 1.0
+  }
+}

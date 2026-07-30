@@ -1,0 +1,20 @@
+{
+  "total_records": 7117,
+  "missing_values": {
+    "Observation_Date": 0,
+    "Year": 0,
+    "Month": 0,
+    "Day": 0,
+    "Average_Temperature_C": 0,
+    "Maximum_Temperature_C": 0,
+    "Minimum_Temperature_C": 0,
+    "Relative_Humidity": 0
+  },
+  "duplicate_dates": 0,
+  "missing_days_in_sequence": 0,
+  "logical_inconsistencies": 0,
+  "date_range": {
+    "start": "2007-01-30",
+    "end": "2026-07-25"
+  }
+}
